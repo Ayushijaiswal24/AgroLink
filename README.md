@@ -6,10 +6,13 @@ AgroLink is a web platform designed for wholesale crop trading, connecting selle
 
 https://crop-connect-lime.vercel.app/
 
+## Architecture
+
+![diagram-export-8-15-2024-7_52_30-PM](https://github.com/user-attachments/assets/6587f476-8c76-4232-9ea5-5988ff6f3624)
 
 ## Features
 
-1. **Dual Interfaces**: CropConnect provides separate interfaces for consumers and sellers, accessible through the navbar with options for SignUp and SignIn including email verification for the created account.
+1. **Dual Interfaces**: AgroLink provides separate interfaces for consumers and sellers, accessible through the navbar with options for SignUp and SignIn including email verification for the created account.
 
 ***Seller Side***
 
@@ -48,7 +51,7 @@ To run AgroLink locally, ensure you have NodeJS and MongoDB installed. Follow th
 1. **Clone the repository**:
     ```bash
     git clone <repository-url>
-    cd CropConnect
+    cd AgroLink
     ```
 
 2. **Frontend Setup**:
@@ -92,7 +95,7 @@ By following these steps, you'll have the CropConnect application running locall
 
 ## Contribution
 
-CropConnect welcomes contributions from the community. Feel free to open issues or submit pull requests to help improve the platform.
+AgroLink welcomes contributions from the community. Feel free to open issues or submit pull requests to help improve the platform.
 
 
 **If you find this project helpful, we'd appreciate it if you could give it a star ⭐.**
