@@ -1,6 +1,6 @@
-# CropConnect
+# AgroLink
 
-CropConnect is a web platform designed for wholesale crop trading, connecting sellers and consumers seamlessly. Although still in development, CropConnect offers a robust set of features for both sellers and consumers in the agricultural marketplace.
+AgroLink is a web platform designed for wholesale crop trading, connecting sellers and consumers seamlessly. Although still in development, CropConnect offers a robust set of features for both sellers and consumers in the agricultural marketplace.
 
 ## Deployed Link
 
@@ -42,25 +42,11 @@ https://crop-connect-lime.vercel.app/
 
 13. **Real-Time Stock Updates (WebSocket)**: Implemented WebSocket functionality to provide real-time stock updates. Users can see live changes in stock availability without needing to reload the page. *Please note that this feature may not be visible on the deployed website (deployed on Vercel) as Vercel does not support WebSocket connections. However, if the project is run locally, real-time updates can be seen.*
 
-## Technologies Used
 
-- MongoDB
-- NodeJS
-- ExpressJS
-- ReactJS
-- Redux
-- Tailwind CSS
-- Websocket (socket.io)
-- Cloudinary (for image storage)
-- Leaflet (for map)
-- Unsplash (for images)
-- Recharts (for graphs)
-- Gemini AI
-- Other supporting technologies
 
 ## Installation
 
-To run CropConnect locally, ensure you have NodeJS and MongoDB installed. Follow these steps:
+To run AgroLink locally, ensure you have NodeJS and MongoDB installed. Follow these steps:
 
 1. **Clone the repository**:
     ```bash
