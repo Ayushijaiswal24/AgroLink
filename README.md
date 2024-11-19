@@ -1,6 +1,6 @@
 # AgroLink
 
-AgroLink is a web platform designed for wholesale crop trading, connecting sellers and consumers seamlessly. Although still in development, CropConnect offers a robust set of features for both sellers and consumers in the agricultural marketplace.
+AgroLink is a web platform designed for wholesale crop trading, connecting sellers and consumers seamlessly. Although still in development, AgroLink offers a robust set of features for both sellers and consumers in the agricultural marketplace.
 
 ## Deployed Link
 
